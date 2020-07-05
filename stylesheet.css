@@ -9,13 +9,13 @@ li {
 .header {
   background-color:#002b33;
   color:#ffffff;
-  height:50px;
+  height:60px;
 }
 
 .header-logo {
   float: left;
   font-size: 36px;
-  padding: 10px 40px;
+  padding:10px;
 }
 
 .header-list li {
